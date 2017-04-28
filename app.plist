@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.5.15:3000/SecretChat_1002.ipa</string>
+					<string>https://raw.githubusercontent.com/hokagequan/IPADownload/ec0af9bc6eda5926ea5a6e30b04fbe0038bef12a/SecretChat_1002.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
